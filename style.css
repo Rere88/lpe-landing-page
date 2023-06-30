@@ -11,6 +11,7 @@
 	font-weight: bold;
 	margin-bottom: 20px;
     margin-top: 160px;
+    text-align: center;
 }
 .hero_desc {
     font-family: 'Gruppo', cursive;
@@ -20,6 +21,7 @@
 	text-decoration: none;
     width: 60%;
     justify-content: center;
+    text-align: center;
 }
 .hero-text {
     text-align: center;
@@ -58,3 +60,10 @@ a {
     color: red;
     font-family: 'Gruppo', cursive;
   }
+.main-text {
+    top:270px;
+    position: relative;
+
+}
+
+
