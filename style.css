@@ -51,6 +51,9 @@
  .nav-link {
     color: red !important 
 }
+.navbar {
+    display: flex;
+}
 body {
     font-family: 'Your Font', sans-serif;
     font-family: "Gruppo";
