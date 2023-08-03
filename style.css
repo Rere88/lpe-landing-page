@@ -58,6 +58,8 @@ body {
     font-family: 'Your Font', sans-serif;
     font-family: "Gruppo";
     src: url("path/to/gruppo-font.ttf");
+    margin:0;
+    padding:0;
 }
 a {
     color: red;
@@ -68,5 +70,21 @@ a {
     position: relative;
 
 }
+.nav-list {
+    list-style: none;
+    display:flex;
+    gap: 12px;
+    align-items: center;
+}
 
+.container {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0 30px;
+}
 
+section {
+    padding: 30px;
+}
